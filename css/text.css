@@ -1,6 +1,5 @@
 .ant-section__ant047_text {
     padding: 50px 0;
-    background: #fbfbfb;
 }
 
 .ant-section__ant047_text h3 {
@@ -16,9 +15,6 @@
     line-height: 1.7;
 }
 
-.ant-section__ant047_text .mt-60 {
-    margin-top: 60px;
-}
 .ant-section__ant047_text .mb-30 {
-    margin-bottom: 30px;
+    margin-bottom: 45px;
 }

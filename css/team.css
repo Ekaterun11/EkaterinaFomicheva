@@ -1,5 +1,6 @@
 .ant-section__ant011_team {
 	padding: 50px 0 50px;
+	background: #676767;
 }
 
 .ant-section__ant011_team .section-title h2 {
@@ -26,7 +27,7 @@
 }
 
 .ant-section__ant011_team .team-member {
-	background: #fff none repeat scroll 0 0;
+	
 	padding-bottom: 20px;
 	text-align: center;
 	margin-bottom: 10px;
@@ -56,7 +57,7 @@
 	left: 0;
 	height: 100%;
 	top: 100%;
-	background-color: rgba(248, 114, 6, 0.8);
+	background-color: rgba(203, 203, 203, 0.8);
 	visibility: hidden;
 	transition: all 0.4s ease-in-out 0s;
 	text-align: center;
@@ -85,7 +86,7 @@
 
 .ant-section__ant011_team .team-member span {
 	transition: all 0.4s ease-in-out 0s;
-	color: #f87206;
+	color: #dadada;
 	margin-bottom: 20px;
 	display: inline-block;
 	width: 100%;
@@ -97,7 +98,7 @@
 	height: 30px;
 	display: inline-block;
 	border-radius: 100%;
-	color: #fff;
+	color: #3c3c3c;
 	text-align: center;
 	line-height: 30px;
 	font-size: 20px;
@@ -145,11 +146,11 @@
 }
 
 .ant-section__ant011_team .team-member li i {
-	color: #ffffff;
+	color: #222222;
 }
 
 .ant-section__ant011_team .team-member li i:hover {
-	color: #000;
+	color: #e7e7e7;
 }
 
 .ant-section__ant011_team .testimonial-text.expert-team {
@@ -160,7 +161,6 @@
 .ant-section__ant011_team .testimonial-text.expert-team::before {
 	position: absolute;
 	content: "";
-	background-image: url(../img/team_sec_bg.png);
 	width: 100%;
 	height: 100%;
 	top: 0;
@@ -171,7 +171,7 @@
 
 .art_net_theme_section-overtitle, .art_net_theme_section-overtitle * {
     font-size: 24px;
-    color: #0BBBF8;
+    color: #b72424;
     line-height: 30px;
 }
 
