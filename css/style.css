@@ -1,12 +1,3 @@
-/*
-Theme Name: art-net-theme-html
-Theme URI: https://html6.com.ru
-Author: html6.com.ru
-Author URI: https://html6.com.ru
-Description: Тема-оболочка для контент-секций.
-Version: 1.0
-
-*/
 
 body {
     font-family: 'Roboto';
@@ -53,7 +44,6 @@ table tr:nth-child(even) td {
 	background: #dadada;
 }
 
-/* SCROLL TO TOP */
 .art_net_theme-scroll-to-top {
 	width: 50px;
 	height: 50px;
@@ -84,7 +74,7 @@ table tr:nth-child(even) td {
 	-webkit-transform: rotate(-45deg);
 	      transform: rotate(-45deg);
 	left: 28px;
-	box-shadow: -8px 14px 0px 8px #1ba1fe;
+	box-shadow: -8px 14px 0px 8px #ececec;
 }
 .art_net_theme-scroll-to-top:after {
 	-webkit-transform: rotate(45deg);
@@ -94,8 +84,6 @@ table tr:nth-child(even) td {
 .art_net_theme-scroll-to-top:focus {
 	outline: none;
 }
-
-/* CONTENT IMAGE */
 
 img.alignleft {
     float: left;
@@ -111,8 +99,6 @@ img.aligncenter {
     display: block;
     margin: 15px auto;
 }
-
-/* HEADERS SECTIONS */
 
 .art_net_theme_header-section {
     text-align: center;
@@ -157,7 +143,6 @@ img.aligncenter {
   max-width: 1000px;
   padding: 0 20px;
 }
-
 /* Стили самой формы */
 .content {
   display: flex; /* делаем колонки в ряд */
@@ -275,7 +260,7 @@ img.aligncenter {
 .button input[type="button"] {
   color: #fff;
   font-size: 18px;
-  background: #3e2093;
+  background: #9c9c9c;
   outline: none;
   border: none;
   padding: 10px 20px;
@@ -285,5 +270,5 @@ img.aligncenter {
 
 /* Меняем цвет фона при наведении на кнопку */
 .button input[type="button"]:hover {
-  background: rgb(0, 0, 207);
+  background: rgb(219, 219, 219);
 }

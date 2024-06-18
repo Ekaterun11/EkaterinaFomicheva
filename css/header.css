@@ -11,8 +11,6 @@ body {
     background: #fff;
     padding: 20px 0;
     position: relative;
-    border-bottom:1px solid #ddd;
-    /* box-shadow: 0 2px 5px #00001a; */
 }
 
 #ant-section__ant006_header .ant006_header-menu-wrap {
@@ -28,7 +26,7 @@ body {
 }
 
 .ant006_header-logo a {
-    color: #000;
+    color: #424242;
     font-size: 37px;
     font-weight: bold;
 }
@@ -44,7 +42,7 @@ nav.ant006_header-container > ul {
 }
 
 nav.ant006_header-container li a {
-    color: #333;
+    color: #616161;
     font-size: 14px;
     text-transform: uppercase;
     letter-spacing: 0.3px;
@@ -54,7 +52,7 @@ nav.ant006_header-container li a {
 }
 
 nav.ant006_header-container li a:hover {
-    color: #2668b9;
+    color: #939393;
     text-decoration: none;
 }
 
