@@ -13,7 +13,7 @@
     text-transform: uppercase;
     line-height: 60px;
     font-weight: bold;
-    color: #ffffff;
+    color: #282828;
 }
 
 .art_net_theme_section-subtitle, .art_net_theme_section-subtitle * {
@@ -72,7 +72,7 @@
 }
 
 .ant-section__ant010_blog .news-item:hover .news-text h5 {
-	color: #f87206;
+	color: #787878;
 }
 
 .ant-section__ant010_blog .news-text p {
@@ -94,7 +94,7 @@
 }
 
 .ant-section__ant010_blog .news-det a:hover {
-	color: #f87206;
+	color: #171412;
 }
 
 .ant-section__ant010_blog .news-det a:nth-child(2) {
