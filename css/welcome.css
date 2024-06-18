@@ -119,10 +119,9 @@
 
 .ant-section__ant012_welcome .btn.colorful,
 .ant-section__ant012_welcome .btn.hover-colorful:hover {
-	background-color: #1b8bf9;
-	color: #fff;
+	color: #dddddd;
 	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
-	border-color: #1b8bf9;
+	border-color: #dedede;
 }
 
 .ant-section__ant012_welcome .btn.xx-large {
@@ -156,7 +155,7 @@
 
 .ant-section__ant012_welcome .btn.colorful-darken, .ant-section__ant012_welcome .btn.hover-colorful-darken:hover {
     background-color: #cbcbcb;
-    color: #4f4f4f;rgb(233, 233, 233)
-    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+    color: #4f4f4f;rgb(233, 233, 233);
+    text-shadow: 1px 1px 1px rgba(233, 233, 233);
 
 }
